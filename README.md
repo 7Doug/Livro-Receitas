@@ -5,4 +5,4 @@
 - Macarrão à Carbonara :spaghetti:
 - Pavê
 - Sarapatel de frango
-
+- Carne de Panela
